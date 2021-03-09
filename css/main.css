@@ -184,9 +184,6 @@ section {
 	align-items: center; 
 }
 
-.project__item {
-	cursor: pointer;
-}
 .project__item_first {
 	background: url(../img/project1.png);
 }
