@@ -182,6 +182,7 @@ section {
 	display: flex;
 	justify-content: center;
 	align-items: center; 
+	cursor: pointer;
 }
 
 .project__item_first {
